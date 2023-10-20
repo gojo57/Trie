@@ -1,0 +1,3 @@
+TRIE (Prefix Tree)
+
+--> Say, you're given a list of strings and then there are queries to check whether a certain word is present in the list or not.
